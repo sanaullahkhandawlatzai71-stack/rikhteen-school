@@ -1,2 +1,2 @@
 # rikhteen-school
-Public 
+Public
